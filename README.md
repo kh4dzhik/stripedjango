@@ -1,4 +1,5 @@
 
+
 git clone https://github.com/kh4dzhik/stripedjango.git
 
 cd stripedjango
